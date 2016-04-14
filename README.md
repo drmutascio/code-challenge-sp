@@ -2,6 +2,8 @@
 
 ## Installation
 
+You will need to install [node.js](http://nodejs.org/). Once done, you can use `npm` to install the module globally and use the command line interface.
+
 ```sh
 npm install -g code-challenge-sp
 ```
