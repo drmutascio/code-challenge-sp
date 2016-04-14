@@ -1,0 +1,28 @@
+{
+  "name": "code-challenge-sp",
+  "version": "1.0.0",
+  "description": "The Hub for Code Challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "npm install -g code-challenge"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPCodeClub/code-challenge-sp.git"
+  },
+  "keywords": [],
+  "author": "Juwan Wheatley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SPCodeClub/code-challenge-sp/issues"
+  },
+  "homepage": "https://github.com/SPCodeClub/code-challenge-sp#readme",
+  "dependencies": {
+    "assert": "^1.3.0",
+    "code-challenge": "0.0.5",
+    "fs": "0.0.2",
+    "path": "^0.12.7"
+  }
+}
